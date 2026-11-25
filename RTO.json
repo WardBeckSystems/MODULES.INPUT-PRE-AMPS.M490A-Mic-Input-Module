@@ -1,0 +1,482 @@
+{
+ "code": "M490A",
+ "connector": "RTO-144",
+ "type": "M490A - Mic Pre-amp",
+ "series": "2200- Mic Pre",
+ "contacts": "25 contacts, 4 contacts (P1), 22 contacts (P2)",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "LEFT PGRM 1",
+   "kind": "audio",
+   "pair": "A3",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "1",
+   "signal": "MIC IN A",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "LEFT PGRM 1",
+   "kind": "audio",
+   "pair": "A3",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "RIGHT PGRM 1",
+   "kind": "audio",
+   "pair": "A4",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "3",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "4",
+   "signal": "RIGHT PGRM 1",
+   "kind": "audio",
+   "pair": "A4",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "5",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  },
+  {
+   "pin": "6",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "7",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "8",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  },
+  {
+   "pin": "9",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
+   "page": 1
+  },
+  {
+   "pin": "10",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
+   "page": 1
+  },
+  {
+   "pin": "11",
+   "signal": "IC 112 IC",
+   "kind": "other",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
+   "page": 1
+  },
+  {
+   "pin": "12",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  },
+  {
+   "pin": "13",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "CUE OUT , LEFT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "CUE OUT , LEFT",
+   "kind": "out",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
+   "page": 1
+  },
+  {
+   "pin": "17",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "NC",
+   "kind": "nc",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+   "page": 1
+  },
+  {
+   "pin": "25",
+   "signal": "V COM",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "table",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
+   "page": 1
+  },
+  {
+   "pin": "A",
+   "signal": "MIC IN A",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "C",
+   "signal": "MIC IN B",
+   "kind": "in",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "E",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  },
+  {
+   "pin": "F",
+   "signal": "INSERT SEND",
+   "kind": "out",
+   "pair": "B1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "H",
+   "signal": "INSERT RETURN",
+   "kind": "in",
+   "pair": "B2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M490A/M490A.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "J",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg",
+   "page": 1
+  },
+  {
+   "pin": "L",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  },
+  {
+   "pin": "M",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+   "page": 1
+  },
+  {
+   "pin": "N",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  },
+  {
+   "pin": "P",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  },
+  {
+   "pin": "R",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+   "page": 1
+  },
+  {
+   "pin": "U",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  },
+  {
+   "pin": "V",
+   "signal": "",
+   "kind": "unread",
+   "pair": null,
+   "polarity": null,
+   "confidence": "low",
+   "read_from": "schematic",
+   "file": "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+   "page": 1
+  }
+ ],
+ "straps": [
+  {
+   "function": "Insert",
+   "designation": "JMP.6.7",
+   "from": "P2-6",
+   "to": "P2-7"
+  },
+  {
+   "function": "Insert",
+   "designation": "JMP.F.H",
+   "from": "P2-F",
+   "to": "P2-H"
+  }
+ ],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "P2-19",
+   "ground": "P2-20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "P2-21",
+   "ground": "P2-20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M490A/M490A.rto144.json",
+  "Modules/INPUT-PRE-AMPS/M490A/PINOUTS/1978 - M490A - 021 - Pin Out.jpg",
+  "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - CRII ILO IOK.jpg",
+  "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg",
+  "Modules/INPUT-PRE-AMPS/M490A/SCHEMATICS/WBS M490A - Schematic(1).jpg"
+ ]
+}
