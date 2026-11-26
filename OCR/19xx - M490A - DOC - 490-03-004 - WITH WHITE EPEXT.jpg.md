@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 105 in 90 lines: HeLe · Filiak · 004- 2 · God - · MLeec · MecA · 48 · 490-03-084*2-14 · 03-064-24 · GLel · 76o · 12.93e
 - **Title block:** (357, 20)–(432, 36) mm: WAAD-BECK SYBTEMS · WBS · M49oNc
 
-Every curve, box, word and wire group: [19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT (traced).json](../MECHANICAL/19xx%20-%20M490A%20-%20DOC%20-%20490-03-004%20-%20WITH%20WHITE%20EPEXT%20(traced).json) (the CAD file: `19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT (traced).json](../MECHANICAL/19xx%20-%20M490A%20-%20DOC%20-%20490-03-004%20-%20WITH%20WHITE%20EPEXT%20%28traced%29.json) (the CAD file: `19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT (traced).dxf`).
 
 ## Full text
 

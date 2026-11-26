@@ -22,7 +22,7 @@ Wiki page: [M490A](../../../../PAGES/M490A.md)
 - **Words (OCR):** 100 in 75 lines: WBS · M49OA · mutue · interlocked · selecticr · micropncne sources · (A or · SENSitivity contro · continuousy · adjustab Jcv control runge · 30   dB= · PROCRAY
 - **Title block:** (169, 24)–(432, 318) mm: WBS · M49OA · SENSitivity contro · continuousy · adjustab Jcv control runge · 30   dB= · PROCRAY · channc] · ia fed via mixing ntnonks · switci · nixing · Jppropnatc · cft · right PGh · gain · PROGRAM
 
-Every curve, box, word and wire group: [1978 - M490A - 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION (traced).json](../MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20USED%20FOR%20IGNA%20PURPOSES%20FROM%20REMOTE%20OCATION%20(traced).json) (the CAD file: `1978 - M490A - 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490A - 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION (traced).json](../MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20USED%20FOR%20IGNA%20PURPOSES%20FROM%20REMOTE%20OCATION%20%28traced%29.json) (the CAD file: `1978 - M490A - 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION (traced).dxf`).
 
 ## Full text
 

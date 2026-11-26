@@ -15,6 +15,15 @@ Wiki page: [M490A](../../../../PAGES/M490A.md)
 - **Size:** 46,057 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 262 mm, 500 × 304 px traced (0.864 mm/px)
+- **Ink extent:** 12–432 mm across, 0–257 mm up
+- **Outlines:** line 924 rings, 3,645 straight (12,992 mm) / 674 curved (2,282 mm)
+- **Closed boxes:** 30
+
+Every curve, box, word and wire group: [WBS M490A - component layout (traced).json](../SCHEMATICS/WBS%20M490A%20-%20component%20layout%20%28traced%29.json) (the CAD file: `WBS M490A - component layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR)

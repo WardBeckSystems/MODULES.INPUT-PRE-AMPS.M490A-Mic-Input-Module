@@ -11,6 +11,17 @@ Wiki page: [M490A](../../../../PAGES/M490A.md)
 - **Size:** 4,367,501 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 281 mm, 2000 × 1302 px traced (0.216 mm/px), turned 270°
+- **Ink extent:** 0–432 mm across, 0–280 mm up
+- **Outlines:** line 2,949 rings, 17,732 straight (25,660 mm) / 5,468 curved (5,309 mm); text 505 rings, 2,879 straight (2,229 mm) / 978 curved (991 mm)
+- **Circles and arcs:** 17 circles, 0 arcs; largest r 4.1 @ (161.4, 100.8), r 3.8 @ (54.3, 114.9), r 3.7 @ (161.4, 88.3), r 3.5 @ (339.1, 142.1)
+- **Closed boxes:** 51
+- **Dots (junctions):** 10
+
+Every curve, box, word and wire group: [1978 - M490A - 020 - PCB layout (traced).json](../SCHEMATICS/1978%20-%20M490A%20-%20020%20-%20PCB%20layout%20%28traced%29.json) (the CAD file: `1978 - M490A - 020 - PCB layout (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 2 words corrected)

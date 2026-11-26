@@ -27,7 +27,7 @@ Wiki page: [M490A](../../../../PAGES/M490A.md)
 - **Title block:** (291, 12)–(432, 93) mm: 2/ 78 · REDRAWN · 2/78 MACHINE CONTROLS REVISED · ISSUE IDATE · REVISION · WBS WARD-BECK SYSTEMS · DRN: GEB · M49OA · ENG.GEB 2 / 78 · CKD. Rub · MIc INPUT MODULE · FUNCTIONAL DIAGRAM · APP · SCALE · 
 - **Wiring (first pass):** 171 connected wire groups from 416 runs; labelled ends: 97 mm → INSERT, (-15d8); 68 mm → PGmi, CUE, CTL, LoGIC; 65 mm → CUE X, PGmi, CUE, CTL; 52 mm → CUE; 40 mm → CUE
 
-Every curve, box, word and wire group: [1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (traced).json](../SCHEMATICS/1978%20-%20M490A%20-%20490-01-001%20-%20MACHINE%20CONTROLS%20REVISED%20(traced).json) (the CAD file: `1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (traced).json](../SCHEMATICS/1978%20-%20M490A%20-%20490-01-001%20-%20MACHINE%20CONTROLS%20REVISED%20%28traced%29.json) (the CAD file: `1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (traced).dxf`).
 
 ## Full text
 

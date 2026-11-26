@@ -27,7 +27,7 @@ Wiki page: [M490A](../../../../PAGES/M490A.md)
 - **Title block:** (286, 6)–(432, 88) mm: 2/ 78 · REDRAWN · 2/78 MACHINE · (ISSUE |DATE · REVISION · APF · WBS WARD-BECK · SYSTEMS · DRN GEB · ENG.GEB 2/78 · M49OA · MIc INPUT MODULE · CKD. Reb · FUNCTIONAL DIAGRAM · APP · SCALE · ISSUE · 490
 - **Wiring (first pass):** 169 connected wire groups from 407 runs; labelled ends: 99 mm → INSERT, (-15dB); 26 mm → SENSITiviTY; 22 mm → TALLY; 19 mm → ON, EXTERNAL, CONTROLS, CUE; 19 mm → Ch ON
 
-Every curve, box, word and wire group: [1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (2) (traced).json](../SCHEMATICS/1978%20-%20M490A%20-%20490-01-001%20-%20MACHINE%20CONTROLS%20REVISED%20(2)%20(traced).json) (the CAD file: `1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (2) (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (2) (traced).json](../SCHEMATICS/1978%20-%20M490A%20-%20490-01-001%20-%20MACHINE%20CONTROLS%20REVISED%20%282%29%20%28traced%29.json) (the CAD file: `1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (2) (traced).dxf`).
 
 ## Full text
 

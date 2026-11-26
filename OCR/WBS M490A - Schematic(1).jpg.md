@@ -17,6 +17,20 @@ Cropped schematic of a microphone input selector and transistor preamp stage, no
 - **Size:** 417,636 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 432 × 308 mm, 1786 × 1273 px traced (0.242 mm/px)
+- **Ink extent:** 4–432 mm across, 0–308 mm up
+- **Outlines:** line 475 rings, 5,631 straight (12,093 mm) / 1,113 curved (1,905 mm); text 686 rings, 4,081 straight (4,538 mm) / 1,468 curved (2,196 mm)
+- **Centre lines:** 6,074 paths (132 closed); straight 9,536 mm, curved 635 mm; horizontal 2,736 mm, vertical 2,813 mm, diagonal 3,986 mm
+- **Circles and arcs:** 19 circles, 63 arcs; largest r 7.3 @ (289.9, 263.6), r 7.3 @ (206.3, 263.1), r 7.2 @ (277.8, 49.0), r 7.1 @ (290.0, 201.3)
+- **Closed boxes:** 1
+- **Dots (junctions):** 1
+- **Words (OCR):** 151 in 140 lines: Rzi · 18 · C5 · RI7 · inPuT SELECTR · 4.7/25 · Ri2 · 22 · SW| · Sw2 · ISk · 03
+- **Wiring (first pass):** 109 connected wire groups from 501 runs, 2 dotted junctions; labelled ends: 281 mm → p2-9,k <; 242 mm → R23, 22, Cio, e2o/io; 150 mm → I5k, 72-F, R36, 22; 132 mm → 29, 150, R3o, ISK; 122 mm → WBS, Rs, 220k
+
+Every curve, box, word and wire group: [WBS M490A - Schematic(1) (traced).json](../SCHEMATICS/WBS%20M490A%20-%20Schematic%281%29%20%28traced%29.json) (the CAD file: `WBS M490A - Schematic(1) (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 1 words corrected)

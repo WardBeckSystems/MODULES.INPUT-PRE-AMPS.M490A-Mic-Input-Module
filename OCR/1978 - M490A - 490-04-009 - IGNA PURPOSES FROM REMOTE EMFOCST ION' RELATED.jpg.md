@@ -22,7 +22,7 @@ Wiki page: [M490A](../../../../PAGES/M490A.md)
 - **Words (OCR):** 51 in 45 lines: WBS · 04904 · #ICROPACYL · SELECTC? sitche: · 0fw2e · interlocked · Gcurcus · scIcction · 315; · chjnnc) · Steach mizin · Mixina
 - **Title block:** (197, 17)–(432, 274) mm: WBS · 04904 · 315; · Mixina · ethorks · SLIDE · Channi · Infinite positien · aetenu · moyed · chunne| · saltched · opens · lccutior Feuceo · ybe · chennal. · REVIsIOH · DATE · WBS · WARO-BeCk SYSTEN
 
-Every curve, box, word and wire group: [1978 - M490A - 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED (traced).json](../MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20IGNA%20PURPOSES%20FROM%20REMOTE%20EMFOCST%20ION%27%20RELATED%20(traced).json) (the CAD file: `1978 - M490A - 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED (traced).dxf`).
+Every curve, box, word and wire group: [1978 - M490A - 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED (traced).json](../MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20IGNA%20PURPOSES%20FROM%20REMOTE%20EMFOCST%20ION%27%20RELATED%20%28traced%29.json) (the CAD file: `1978 - M490A - 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED (traced).dxf`).
 
 ## Full text
 

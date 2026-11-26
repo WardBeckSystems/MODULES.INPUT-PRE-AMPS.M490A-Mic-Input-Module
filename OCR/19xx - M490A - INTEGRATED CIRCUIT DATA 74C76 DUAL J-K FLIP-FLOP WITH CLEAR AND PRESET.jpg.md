@@ -18,6 +18,19 @@ Typed IC data sheet page for the 74C76 dual J-K flip-flop.
 - **Size:** 431,664 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic, size B (assumed) 306 × 432 mm, 1131 × 1598 px traced (0.270 mm/px)
+- **Ink extent:** 8–293 mm across, 10–415 mm up
+- **Outlines:** line 140 rings, 4,982 straight (8,212 mm) / 526 curved (978 mm); text 950 rings, 7,163 straight (8,341 mm) / 2,152 curved (3,654 mm)
+- **Centre lines:** 6,054 paths (170 closed); straight 10,269 mm, curved 65.8 mm; horizontal 3,140 mm, vertical 3,290 mm, diagonal 3,839 mm
+- **Circles and arcs:** 1 circles, 13 arcs; largest r 1.4 @ (132.0, 167.0)
+- **Closed boxes:** 19; named: CLEAR dcLock PRESET; PRESET CLOCK CLEAR; tn tn+] 8n 8n; tn; Preset Clear Qn Qn Qn kan; tn+]; Preset; Clear; Qn; Qn; 8n 8n; Qn kan
+- **Words (OCR):** 137 in 78 lines: WARD-BECK SYSTEMS LTD_ · INTEGRATED CIRCUIT DATA · 14076 · DUAL · J-K FLIP-FLOP WITH CLEAR AND PRESEI · The 74c76 J-K · flop has independent · flip-flop is mono]ithic · cMOS circuit Each · clock, · clear and preset · inputs as
+- **Wiring (first pass):** 53 connected wire groups from 276 runs; labelled ends: 921 mm → pulse _; 319 mm → sets, Preset, Qn, Qn kan; 296 mm → Note, bit; 224 mm → 16, 15, QA, GND; 164 mm → DUAL, PRESEI
+
+Every curve, box, word and wire group: [19xx - M490A - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET (traced).json](../SCHEMATICS/19xx%20-%20M490A%20-%20INTEGRATED%20CIRCUIT%20DATA%2074C76%20DUAL%20J-K%20FLIP-FLOP%20WITH%20CLEAR%20AND%20PRESET%20%28traced%29.json) (the CAD file: `19xx - M490A - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 8 words corrected)
