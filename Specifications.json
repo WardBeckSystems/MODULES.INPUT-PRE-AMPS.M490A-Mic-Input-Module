@@ -1,0 +1,194 @@
+{
+ "module": "M490A",
+ "title": "M490A MIC InPUT MODULE",
+ "source": {
+  "file": "MANUALS/1978 - M490A - 006.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.9,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Input sensitivity",
+   "key": "input_sensitivity",
+   "text": "Frequency Response: Noise: -60 to -30 dBm (ref _ 150 ohm source) ±0.5 dB from 30 Hz to 20 kHz _ -125 dBm EIn at maximum SENSITIVIty (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "from": -60,
+     "to": -30,
+     "unit": "dBm"
+    },
+    {
+     "value": 150,
+     "unit": "ohm"
+    },
+    {
+     "value": 0.5,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": -125,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.35 % THD from 30 Hz to 20 kHz at 20 dB above nomina ] operating evel or Tess _ Less than 0.1% at kHz at 20 dB above nomina 1 operating level or Tess_ Less than 0.5 % at kHz through cue channel at 20 dB above nomina ] operating level or Tess",
+   "quantities": [
+    {
+     "value": 0.35,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    },
+    {
+     "value": 0.5,
+     "unit": "%"
+    },
+    {
+     "value": 20,
+     "unit": "dB"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "150 ohms ba lanced/unba lanced",
+   "quantities": [
+    {
+     "value": 150,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "750 ohms minimum",
+   "quantities": [
+    {
+     "value": 750,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output impedances",
+   "key": "output_impedance",
+   "text": "30,000 ohms baLanced (program circuits) 60,000 ohms baLanced (cue circuits)",
+   "quantities": [
+    {
+     "value": 30000,
+     "unit": "ohms"
+    },
+    {
+     "value": 60000,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Output level",
+   "key": "output_level",
+   "text": "dBm nomina 1 +25 dBm maximum (equivalent voltage 600 ohms) Input and output termina ]s designated by numbers are in phase, or Tower number of numbered pair is in phase with ower number of other numbered pair",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "dBm"
+    },
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "",
+   "items": [
+    {
+     "name": "Input levels",
+     "text": "(to operate Ch ON, Ch 0FF",
+     "quantities": [],
+     "key": "input_level"
+    },
+    {
+     "name": "Logic 0",
+     "text": "0 to +13 volts Logic 1: +16 to +24 volts_ Externa] Contro] Output: (Open collector current sink.) Minimum Load impedance: 600 ohms Maximum Load current: 40 MA_ Maximum supply voltage: +24 volts. Saturated collector voltage +2 volts maximum at 40 mA Toad",
+     "quantities": [
+      {
+       "from": 0,
+       "to": 13,
+       "unit": "volts"
+      },
+      {
+       "from": 16,
+       "to": 24,
+       "unit": "volts"
+      },
+      {
+       "value": 600,
+       "unit": "ohms"
+      },
+      {
+       "value": 40,
+       "unit": "MA"
+      },
+      {
+       "value": 24,
+       "unit": "volts"
+      },
+      {
+       "value": 2,
+       "unit": "volts"
+      },
+      {
+       "value": 40,
+       "unit": "mA"
+      }
+     ],
+     "key": "logic_0"
+    }
+   ]
+  }
+ ]
+}

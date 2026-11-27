@@ -13,6 +13,40 @@ Ward-Beck Systems M490A, 1978|11. Wiki page: [M490A on WBSps.ca](https://wardbec
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [12 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [1978 - M490A - 006.jpg](MANUALS/1978%20-%20M490A%20-%20006.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Input sensitivity** | Frequency Response: Noise: -60 to -30 dBm (ref _ 150 ohm source) ±0.5 dB from 30 Hz to 20 kHz _ -125 dBm EIn at maximum SENSITIVIty (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.35 % THD from 30 Hz to 20 kHz at 20 dB above nomina ] operating evel or Tess _ Less than 0.1% at kHz at 20 dB above nomina 1 operating level or Tess_ Less than 0.5 % at kHz through cue channel at 20 dB above nomina ] operating level or Tess |
+| **Source impedance** | 150 ohms ba lanced/unba lanced |
+| **Input impedance** | 750 ohms minimum |
+| **Output impedances** | 30,000 ohms baLanced (program circuits) 60,000 ohms baLanced (cue circuits) |
+| **Output level** | dBm nomina 1 +25 dBm maximum (equivalent voltage 600 ohms) Input and output termina ]s designated by numbers are in phase, or Tower number of numbered pair is in phase with ower number of other numbered pair |
+| **Phasing** |  |
+| &nbsp;&nbsp;Input levels | (to operate Ch ON, Ch 0FF |
+| &nbsp;&nbsp;Logic 0 | 0 to +13 volts Logic 1: +16 to +24 volts_ Externa] Contro] Output: (Open collector current sink.) Minimum Load impedance: 600 ohms Maximum Load current: 40 MA_ Maximum supply voltage: +24 volts. Saturated collector voltage +2 volts maximum at 40 mA Toad |
+
+## Circuit description
+
+From [1978 - M490A - 008.jpg](MANUALS/1978%20-%20M490A%20-%20008.jpg) page 1 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+**CIRCULI DESCRIPTION**
+
+M49OA MIC InPUt MODULE M49OA MIC InPUT MODULE Program Channel Switch 28 is CMOs dua ] flip-flop serving a $ Latch to maintain the status of 22 and 25 _ once they have been set to either the on or the OFF position 22 is CMOS ana 1og switch, serving as the active switching element of the PROGRAM channe] The contro] voltage to operate 22 is derived from the logic circuitry within the module and is coupled to 22 via CR1. to switch the channel on this control voltage is in the order of 10 vo ] ts When the contro] voltage drops to volts_ the switch will be 0FF, resulting in signa ] attenuation of more than 100 dB number of individual input functions govern the status of the dua] flip-flop 28 _ description of each input function follows: Initial Reset When power is initially applied to the system, the combination of CR9 CR10 CR11 and C40 will Pull down both clear inputs of 28 until C40 is fully charged thus ensuring that switches 22 and 25 are in the OFF position_ Booster_Amplifier Following 22 integrated circuits 23 and 24 amp] i fy the audios j gna 1 to nomina level of dBm (equivalent voltage) From the amplifier output the signa 1 is routed to the PROGRAM AssiGn switches Sw4 and Sw5 followed by the Teft and right mixing bus outputs Channel On Program Outputs Momentary operation of the CHANNEL on switch Sw9 will Produce negative going pulse at 28 pin and preset the A-section of 28 Alternatively, momentary ground closure of the EXTERNAL CHANNEL on contro] input at P2, pin N wili result in the same condition Both PROGRAM outputs P1 and P2 are designed to feed into stereo buses and each is divided into Teft and right output Operation of ASSIGNMENT SWITCHES Sw4 or SW5 wii1 result in simultaneous assignment to both Te ft and right channels of the appropriate mixing buses Once the flip-flop is &quot;preset its output at pin 15 changes from to (approximately +10 volts) _ On _ Fuithe ernore causi2the]PRoG arafeitebul?itg {ni tce CHANNEL On indicator Tamp DS3 to switch on With Q12 saturated the contro] common potential appears at the emitters of Q13 and Q14 positive base potential 1$ applied to either Q13 or Q14 depending on whether InpUt SELECTOR switch SW1 or SW2 is depressed Effectively Q13 and Q14 operate similarly to two AND gates The collectors of the two transistors represent the outputs of the ANDgates They appear at P2 pin 13 and These terminals are capab ]e of inking maximum current of 40 MA each from 24 volt source and maybe used for muting purposes Cue Channel The CUEs igna ] originates from bridging takeoff at the input of the slide attenuator Owing to the high input impedance of the CUE channe] its operation has no effect on the main PROGRAM channe] 25 represents the audio switch for the CUE channe] Similarly to 22 the contro] voltage for 25 is generated in the Logic circuitry as described further on The output of 25 is fo]owed by the booster amp] i fier 26 which in turn feeds the cue bus mixing network R101 through R104 _ 1 Control Logic The contro] voltages required to operate the PROGRAM and the CUE switch 22 switch 25 are generated with thea id of circuitry 109ic utilizing integrated circuits 27 through 210
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._
