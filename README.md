@@ -1,16 +1,16 @@
-# M490A · Input Pre Amps
+# M490A Mic Input Module · Input Pre Amps
 
 Ward-Beck Systems M490A, 1978|11. Wiki page: [M490A on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M490A.html)
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 22 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 11 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 6 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 15 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 4 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 0 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 5 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 16 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 6 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -55,31 +55,20 @@ _Photographs of the module itself: front, back, inside, racked._
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKSHdXOFFiS1RGN1U/view?resourcekey=0-p8-NmNmKlbJFo4cwdVTZfA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKSHdXOFFiS1RGN1U&resourcekey=0-p8-NmNmKlbJFo4cwdVTZfA" width="240" alt="1978 - M490A - wbsps - module - M490A 001.jpg"></a><br><sub>1978|11 · wbsps - module - M490A 001</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY1E0cmZOREdyMkE/view?resourcekey=0-oXaA9ZYyAoR98j_2MBEfYQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY1E0cmZOREdyMkE&resourcekey=0-oXaA9ZYyAoR98j_2MBEfYQ" width="240" alt="1978 - M490A - wbsps - module - M490A 002.jpg"></a><br><sub>1978|11 · wbsps - module - M490A 002</sub></td></tr>
 </table>
 
-Shared privately on Google Drive (opens after sign-in): [1978|11 · wbsps - module - M490A 001_small](https://drive.google.com/file/d/0B0yR0b5T78SKZ3JVVnNHT0gtd0k/view?resourcekey=0-yx9b8hICXNlf3jmUWw1Hmw) · [1978|11 · wbsps - module - M490A 002_small](https://drive.google.com/file/d/0B0yR0b5T78SKbExqMm5JbHpIa1E/view?resourcekey=0-_LzGrFiwTnE3ZBVh7FvG7A)
-
 ## Mechanical
 
 _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- drawings), AutoCAD files, each with its `(EXTRACTED).svg` vectors; `<module> - front panel.svg` is the front panel as vectors._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeVZJUVRsWGRfZFU/view?resourcekey=0-UJuZURmh62zzS2u9BcKd9A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeVZJUVRsWGRfZFU&resourcekey=0-UJuZURmh62zzS2u9BcKd9A" width="240" alt="1978 - M490A - 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED.jpg"></a><br><sub>1978|11 · 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED · <a href="MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20IGNA%20PURPOSES%20FROM%20REMOTE%20EMFOCST%20ION%27%20RELATED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZW5UdndSekx3OTQ/view?resourcekey=0-TsOb3ACrrMBqlS6dptNyJA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZW5UdndSekx3OTQ&resourcekey=0-TsOb3ACrrMBqlS6dptNyJA" width="240" alt="1978 - M490A - 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION.jpg"></a><br><sub>1978|11 · 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION · <a href="MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20USED%20FOR%20IGNA%20PURPOSES%20FROM%20REMOTE%20OCATION%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1lKHpnTICJh9KiuJpWwjL0ARMKAIf46sP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1lKHpnTICJh9KiuJpWwjL0ARMKAIf46sP" width="240" alt="19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT.jpg"></a><br><sub>19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeVZJUVRsWGRfZFU/view?resourcekey=0-UJuZURmh62zzS2u9BcKd9A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeVZJUVRsWGRfZFU&resourcekey=0-UJuZURmh62zzS2u9BcKd9A" width="240" alt="1978 - M490A - 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED.jpg"></a><br><sub>1978|11 · 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED · <a href="MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20IGNA%20PURPOSES%20FROM%20REMOTE%20EMFOCST%20ION%27%20RELATED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZW5UdndSekx3OTQ/view?resourcekey=0-TsOb3ACrrMBqlS6dptNyJA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZW5UdndSekx3OTQ&resourcekey=0-TsOb3ACrrMBqlS6dptNyJA" width="240" alt="1978 - M490A - 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION.jpg"></a><br><sub>1978|11 · 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION · <a href="MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20USED%20FOR%20IGNA%20PURPOSES%20FROM%20REMOTE%20OCATION%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1lKHpnTICJh9KiuJpWwjL0ARMKAIf46sP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1lKHpnTICJh9KiuJpWwjL0ARMKAIf46sP" width="240" alt="19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT.jpg"></a><br><sub>19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT · <a href="MECHANICAL/19xx%20-%20M490A%20-%20DOC%20-%20490-03-004%20-%20WITH%20WHITE%20EPEXT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-## 3-D model
-
-[`MECHANICAL/M490A.stl`](MECHANICAL/M490A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490A)
-
-- **Size:** 41 × 251.12 mm panel, 165 mm deep, 3.2 mm plate (assumed 41 mm wide (1.6"), the drawn panel's proportions)
-- **From the drawing:** 10 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M490A - front panel.svg`)
-- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
-- Made by `tools/module_models.py` (→ `MECHANICAL/M490A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
 
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVmlvUmw3WHNpTkk/view?resourcekey=0-8WPulMeA27TLSLIVXltQbg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVmlvUmw3WHNpTkk&resourcekey=0-8WPulMeA27TLSLIVXltQbg" width="240" alt="1978 - M490A - 020 - PCB layout.jpg"></a><br><sub>1978|11 · 020 - PCB layout</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcmpONlNCb3JkWG8/view?resourcekey=0-Fqppylqcsz2H76pqsmHMxA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcmpONlNCb3JkWG8&resourcekey=0-Fqppylqcsz2H76pqsmHMxA" width="240" alt="1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (2).jpg"></a><br><sub>1978|11 · 490-01-001 - MACHINE CONTROLS REVISED (2) · <a href="SCHEMATICS/1978%20-%20M490A%20-%20490-01-001%20-%20MACHINE%20CONTROLS%20REVISED%20(2)%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTTd1eGJ6MXEtRG8/view?resourcekey=0-4_S-sdHdEn8aqg6OwFy3SA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTTd1eGJ6MXEtRG8&resourcekey=0-4_S-sdHdEn8aqg6OwFy3SA" width="240" alt="1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED.jpg"></a><br><sub>1978|11 · 490-01-001 - MACHINE CONTROLS REVISED · <a href="SCHEMATICS/1978%20-%20M490A%20-%20490-01-001%20-%20MACHINE%20CONTROLS%20REVISED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVmlvUmw3WHNpTkk/view?resourcekey=0-8WPulMeA27TLSLIVXltQbg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVmlvUmw3WHNpTkk&resourcekey=0-8WPulMeA27TLSLIVXltQbg" width="240" alt="1978 - M490A - 020 - PCB layout.jpg"></a><br><sub>1978|11 · 020 - PCB layout · <a href="SCHEMATICS/1978%20-%20M490A%20-%20020%20-%20PCB%20layout%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKcmpONlNCb3JkWG8/view?resourcekey=0-Fqppylqcsz2H76pqsmHMxA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKcmpONlNCb3JkWG8&resourcekey=0-Fqppylqcsz2H76pqsmHMxA" width="240" alt="1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED (2).jpg"></a><br><sub>1978|11 · 490-01-001 - MACHINE CONTROLS REVISED (2) · <a href="SCHEMATICS/1978%20-%20M490A%20-%20490-01-001%20-%20MACHINE%20CONTROLS%20REVISED%20(2)%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTTd1eGJ6MXEtRG8/view?resourcekey=0-4_S-sdHdEn8aqg6OwFy3SA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTTd1eGJ6MXEtRG8&resourcekey=0-4_S-sdHdEn8aqg6OwFy3SA" width="240" alt="1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED.jpg"></a><br><sub>1978|11 · 490-01-001 - MACHINE CONTROLS REVISED · <a href="SCHEMATICS/1978%20-%20M490A%20-%20490-01-001%20-%20MACHINE%20CONTROLS%20REVISED%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRHZ3UDJGSVlBR0k/view?resourcekey=0-CszFvl1JZ6d1_m0253yMYg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRHZ3UDJGSVlBR0k&resourcekey=0-CszFvl1JZ6d1_m0253yMYg" width="240" alt="1978 - M490A - 490-02-002 - CRII ILO IOK.jpg"></a><br><sub>1978|11 · 490-02-002 - CRII ILO IOK · <a href="SCHEMATICS/1978%20-%20M490A%20-%20490-02-002%20-%20CRII%20ILO%20IOK%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1knUDRxL4RvHFKTsjYd0jxH6wh3tzgISS/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1knUDRxL4RvHFKTsjYd0jxH6wh3tzgISS" width="240" alt="1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg"></a><br><sub>1978|11 · 490-02-002 - IOK SWIO CUT ZIO · <a href="SCHEMATICS/1978%20-%20M490A%20-%20490-02-002%20-%20IOK%20SWIO%20CUT%20ZIO%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
@@ -90,7 +79,7 @@ Not on Google Drive yet: `19xx - M490A - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeHNSaFAxN1hZNE0/view?resourcekey=0-X12T3RxZSx9YqhIQiVJ2KQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeHNSaFAxN1hZNE0&resourcekey=0-X12T3RxZSx9YqhIQiVJ2KQ" width="240" alt="1978 - M490A - 021 - Pin Out.jpg"></a><br><sub>1978|11 · 021 - Pin Out</sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeHNSaFAxN1hZNE0/view?resourcekey=0-X12T3RxZSx9YqhIQiVJ2KQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeHNSaFAxN1hZNE0&resourcekey=0-X12T3RxZSx9YqhIQiVJ2KQ" width="240" alt="1978 - M490A - 021 - Pin Out.jpg"></a><br><sub>1978|11 · 021 - Pin Out · <a href="PINOUTS/1978%20-%20M490A%20-%20021%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 Not on Google Drive yet: `M490A - RTO-144 Connections.pdf`
@@ -196,7 +185,16 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED.kicad_sch](KICAD/1978%20-%20M490A%20-%20490-01-001%20-%20MACHINE%20CONTROLS%20REVISED.kicad_sch)
 - [1978 - M490A - 490-02-002 - CRII ILO IOK.kicad_sch](KICAD/1978%20-%20M490A%20-%20490-02-002%20-%20CRII%20ILO%20IOK.kicad_sch)
 - [1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.kicad_sch](KICAD/1978%20-%20M490A%20-%20490-02-002%20-%20IOK%20SWIO%20CUT%20ZIO.kicad_sch)
+- [19xx - M490A - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET.kicad_sch](KICAD/19xx%20-%20M490A%20-%20INTEGRATED%20CIRCUIT%20DATA%2074C76%20DUAL%20J-K%20FLIP-FLOP%20WITH%20CLEAR%20AND%20PRESET.kicad_sch)
 - [M490A.kicad_sym](KICAD/M490A.kicad_sym)
+- [WBS M490A - Functional Diagram.kicad_sch](KICAD/WBS%20M490A%20-%20Functional%20Diagram.kicad_sch)
+- [WBS M490A - Schematic(1).kicad_sch](KICAD/WBS%20M490A%20-%20Schematic(1).kicad_sch)
+- [WBS M490A - Schematic.kicad_sch](KICAD/WBS%20M490A%20-%20Schematic.kicad_sch)
+- [index.html](KICAD/index.html)
+
+## Software
+
+- [index.html](SOFTWARE/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
