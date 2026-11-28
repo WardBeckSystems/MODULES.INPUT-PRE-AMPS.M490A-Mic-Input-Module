@@ -1,5 +1,5 @@
 # WBS M490A - Functional Diagram.jpg
-Wiki page: [M490A](../../../../PAGES/M490A.md)
+Wiki page: [M490A](../)
 
 
 - **Year:** unknown (title block (read by eye))

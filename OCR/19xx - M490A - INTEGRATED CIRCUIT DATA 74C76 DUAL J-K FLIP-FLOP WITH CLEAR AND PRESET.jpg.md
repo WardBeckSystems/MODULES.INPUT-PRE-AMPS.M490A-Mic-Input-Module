@@ -1,5 +1,5 @@
 # 19xx - M490A - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET.jpg
-Wiki page: [M490A](../../../../PAGES/M490A.md)
+Wiki page: [M490A](../)
 
 
 - **Year:** unknown (title block (read by eye))

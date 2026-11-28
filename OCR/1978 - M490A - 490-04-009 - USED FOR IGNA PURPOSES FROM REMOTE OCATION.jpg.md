@@ -1,5 +1,5 @@
 # 1978 - M490A - 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION.jpg
-Wiki page: [M490A](../../../../PAGES/M490A.md)
+Wiki page: [M490A](../)
 
 
 - **Year:** 1978 (module estimate (labelled))

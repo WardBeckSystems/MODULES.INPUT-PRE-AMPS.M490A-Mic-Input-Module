@@ -1,5 +1,5 @@
 # 1978 - M490A - 490-01-001 - MACHINE CONTROLS REVISED.jpg
-Wiki page: [M490A](../../../../PAGES/M490A.md)
+Wiki page: [M490A](../)
 
 
 - **Year:** 1978 (found in this file: "DRAWN 2/78")
