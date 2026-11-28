@@ -4,13 +4,12 @@ Ward-Beck Systems M490A, 1978|11. Wiki page: [M490A on WBSps.ca](https://wardbec
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 41 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 11 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 16 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 6 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 10 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 40 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 10 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 15 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 5 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 33 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -63,6 +62,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeVZJUVRsWGRfZFU/view?resourcekey=0-UJuZURmh62zzS2u9BcKd9A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeVZJUVRsWGRfZFU&resourcekey=0-UJuZURmh62zzS2u9BcKd9A" width="240" alt="1978 - M490A - 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED.jpg"></a><br><sub>1978|11 · 490-04-009 - IGNA PURPOSES FROM REMOTE EMFOCST ION' RELATED · <a href="MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20IGNA%20PURPOSES%20FROM%20REMOTE%20EMFOCST%20ION%27%20RELATED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZW5UdndSekx3OTQ/view?resourcekey=0-TsOb3ACrrMBqlS6dptNyJA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZW5UdndSekx3OTQ&resourcekey=0-TsOb3ACrrMBqlS6dptNyJA" width="240" alt="1978 - M490A - 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION.jpg"></a><br><sub>1978|11 · 490-04-009 - USED FOR IGNA PURPOSES FROM REMOTE OCATION · <a href="MECHANICAL/1978%20-%20M490A%20-%20490-04-009%20-%20USED%20FOR%20IGNA%20PURPOSES%20FROM%20REMOTE%20OCATION%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1lKHpnTICJh9KiuJpWwjL0ARMKAIf46sP/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1lKHpnTICJh9KiuJpWwjL0ARMKAIf46sP" width="240" alt="19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT.jpg"></a><br><sub>19xx - M490A - DOC - 490-03-004 - WITH WHITE EPEXT · <a href="MECHANICAL/19xx%20-%20M490A%20-%20DOC%20-%20490-03-004%20-%20WITH%20WHITE%20EPEXT%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M490A.stl`](MECHANICAL/M490A.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M490A)
+
+- **Size:** 41 × 251.12 mm panel, 165 mm deep, 3.2 mm plate (assumed 41 mm wide (1.6"), the drawn panel's proportions)
+- **From the drawing:** 10 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M490A - front panel.svg`)
+- the drawn panel is 0.11 wide to high, the size 0.16: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M490A.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -72,8 +80,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKRHZ3UDJGSVlBR0k/view?resourcekey=0-CszFvl1JZ6d1_m0253yMYg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKRHZ3UDJGSVlBR0k&resourcekey=0-CszFvl1JZ6d1_m0253yMYg" width="240" alt="1978 - M490A - 490-02-002 - CRII ILO IOK.jpg"></a><br><sub>1978|11 · 490-02-002 - CRII ILO IOK · <a href="SCHEMATICS/1978%20-%20M490A%20-%20490-02-002%20-%20CRII%20ILO%20IOK%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1knUDRxL4RvHFKTsjYd0jxH6wh3tzgISS/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1knUDRxL4RvHFKTsjYd0jxH6wh3tzgISS" width="240" alt="1978 - M490A - 490-02-002 - IOK SWIO CUT ZIO.jpg"></a><br><sub>1978|11 · 490-02-002 - IOK SWIO CUT ZIO · <a href="SCHEMATICS/1978%20-%20M490A%20-%20490-02-002%20-%20IOK%20SWIO%20CUT%20ZIO%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `19xx - M490A - INTEGRATED CIRCUIT DATA 74C76 DUAL J-K FLIP-FLOP WITH CLEAR AND PRESET.jpg`, `WBS M490A - Functional Diagram.jpg`, `WBS M490A - Schematic(1).jpg`, `WBS M490A - Schematic.jpg`, `WBS M490A - component layout.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -81,8 +87,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeHNSaFAxN1hZNE0/view?resourcekey=0-X12T3RxZSx9YqhIQiVJ2KQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeHNSaFAxN1hZNE0&resourcekey=0-X12T3RxZSx9YqhIQiVJ2KQ" width="240" alt="1978 - M490A - 021 - Pin Out.jpg"></a><br><sub>1978|11 · 021 - Pin Out · <a href="PINOUTS/1978%20-%20M490A%20-%20021%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M490A - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -190,7 +194,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [WBS M490A - Functional Diagram.kicad_sch](KICAD/WBS%20M490A%20-%20Functional%20Diagram.kicad_sch)
 - [WBS M490A - Schematic(1).kicad_sch](KICAD/WBS%20M490A%20-%20Schematic(1).kicad_sch)
 - [WBS M490A - Schematic.kicad_sch](KICAD/WBS%20M490A%20-%20Schematic.kicad_sch)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
